@@ -31,9 +31,9 @@
   <span class="h1"><a href="<%- url_for("archives") %>"><%= __('index.articles') %></a></span>
   <% if (theme.tags_overview && site.tags.length) { %>
   <span class="h2"><%= __('index.topics') %></span>
-  <span class="widget tagcloud">
+  <!--<span class="widget tagcloud">
     <%- tagcloud(theme.tags_overview) %>
-  </span>
+  </span>-->
   <span class="h2"><%= __('index.most_recent') %></span>
   <% } %>
   <ul class="post-list">
