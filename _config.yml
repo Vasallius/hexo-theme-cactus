@@ -18,6 +18,8 @@ nav:
   about: /about/
   articles: /archives/
   projects: https://github.com/Vasallius
+  tags: /tags/
+  categories: /categories
 
 # Links to your social media accounts.
 # The keys should correspond to Fontawesome icon names
