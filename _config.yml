@@ -24,10 +24,10 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: http://github.com/probberechts/cactus-dark
+  github: https://github.com/Vasallius
   twitter: https://twitter.com/masterjed7262
   facebook: https://www.facebook.com/someoneyouheld.dear
-  linkedin: /
+  linkedin: https://www.linkedin.com/in/jedidiah-tan-a0b1a31b5/
   mail: masterjed7262@gmail.com
 
 # Customize the overview with displaying a tagcloud on the index page.
