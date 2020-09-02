@@ -12,9 +12,7 @@
   "noarg": true,
   "noempty": true,
   "nonew": true,
-  "predef": [
-    "$"
-  ],
+  "predef": ["$"],
   "quotmark": true,
   "trailing": true,
   "undef": true,

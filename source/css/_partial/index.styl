@@ -13,10 +13,20 @@
       color: $color-meta
       
 
+table
+  border-collapse: collapse;
+  table-layout: fixed
+
+td
+  padding: 0.5rem;
+  text-align: left;
+
 @media (min-width: 480px)
   .post-list
     .post-item
       display: flex
+      border-style: solid;
+      border-color: red;
       margin-bottom: 5px
 
       .meta
